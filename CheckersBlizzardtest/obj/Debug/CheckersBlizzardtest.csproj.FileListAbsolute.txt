@@ -1,0 +1,6 @@
+c:\users\juno\documents\visual studio 2015\Projects\CheckersBlizzardtest\CheckersBlizzardtest\bin\Debug\CheckersBlizzardtest.exe.config
+C:\Users\Juno\Documents\Visual Studio 2015\Projects\CheckersBlizzardtest\CheckersBlizzardtest\bin\Debug\CheckersBlizzardtest.exe
+C:\Users\Juno\Documents\Visual Studio 2015\Projects\CheckersBlizzardtest\CheckersBlizzardtest\bin\Debug\CheckersBlizzardtest.pdb
+C:\Users\Juno\Documents\Visual Studio 2015\Projects\CheckersBlizzardtest\CheckersBlizzardtest\obj\Debug\CheckersBlizzardtest.csprojResolveAssemblyReference.cache
+C:\Users\Juno\Documents\Visual Studio 2015\Projects\CheckersBlizzardtest\CheckersBlizzardtest\obj\Debug\CheckersBlizzardtest.exe
+C:\Users\Juno\Documents\Visual Studio 2015\Projects\CheckersBlizzardtest\CheckersBlizzardtest\obj\Debug\CheckersBlizzardtest.pdb
