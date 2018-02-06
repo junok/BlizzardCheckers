@@ -1,4 +1,5 @@
 Dear Blizzard recruiter,
+
 Thank you for this opportunity to show what I what I can do for Blizzard.
 Although this was a test, I had a surprising amount of fun with it and 
 am proud of what I've accomplished and I hope it meets to your standards.
